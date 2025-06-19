@@ -1,0 +1,34 @@
+.topNav {
+    height: 150px;
+    background-color: #6aa84f;
+    margin-bottom: 20px;
+}
+.sideNav {
+    height: 300px;
+    width: 200px;
+    background-color: #6fa8dc;
+    display: inline-block;
+    margin-right: 20px;
+}
+.main {
+    height: 400px;
+    width: 700px;
+    background-color:#e06666;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+.subContent {
+     height: 230px;
+    width: 210px;
+    background-color: #ffd966;
+    display: inline-block;
+    margin: 10px;
+}
+
+.advertisement {
+    height: 120px;
+    width: 660px;
+    background-color:#b4a7da;
+    margin: 10px;
+}
